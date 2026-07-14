@@ -15,7 +15,7 @@ Sometimes testing a system involves having real infrastructure running.
 
 Tests must be independent and must be able to run both isolated and concurrently. Usually test one behaviour per test.
 
-Tests should be representative and sufficient, not necessarily complete. Assertions should be written for clarity of what they assert. Make it clear what is being tested by what assertions are being asserted.
+Tests should be representative and sufficient, not necessarily complete. Assertions should be written for clarity of what they assert. Make it clear what is being tested by what the assertions are doing.
 
 Tests are a diagnostic tool and are made to be read. Clever tests are bad.
 
